@@ -8,9 +8,10 @@
 <!-- - [Payment Fraud](#Payment-Fraud)
 - [About Visa](#About-Visa)
   - [Recent Acquisition](##Recent-Acquisition) -->
-- [Payment Fraud](#Payment-Fraud)  
+- [Payment Fraud](#Payment-Fraud)
 - [About Visa](#About-Visa)
 - [Visa AI](#Visa-AI)
+  - [Recent Acquisition](#Recent-Acquisition)
 <!-- - [Visa AI Competitors](#Visa-AI-Competitors)
   - [Mastercard: Decision Intelligence](#Mastercard:-Decision-Intelligence) -->
 
@@ -79,6 +80,8 @@ Technologies behind Visa Protect that form the backbone of Visa Protect, enablin
 - Cloud computing for scalability and continuous updates.
 - API integration for seamless system implementation with merchants.
 - Biometric authentication for additional transaction validation.
+
+<a name="Recent-Acquisition" ></a>
 
 ### Recent Acquisition
 
