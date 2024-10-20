@@ -1,6 +1,8 @@
 # Visa Inc, Fraud Protection Using AI
 
-![Payment Fraud](images\fraud.jpg)
+<figure>
+  <img src="images\fraud.jpg">
+</figure>
 
 ## Table of Contents
 <!-- - [Payment Fraud](#Payment-Fraud)
