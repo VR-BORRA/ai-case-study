@@ -8,6 +8,7 @@
 <!-- - [Payment Fraud](#Payment-Fraud)
 - [About Visa](#About-Visa)
   - [Recent Acquisition](##Recent-Acquisition) -->
+[About Visa](#About-Visa)
 [Visa AI](#Visa-AI)
 <!-- - [Visa AI Competitors](#Visa-AI-Competitors)
   - [Mastercard: Decision Intelligence](#Mastercard:-Decision-Intelligence) -->
@@ -34,6 +35,7 @@ Payment fraud has a negative impact on businesses. Here are a few of the consequ
 <figcaption><a href="https://www.merchantsavvy.co.uk/payment-fraud-statistics/" target="_blank" class="external-link" >Payment Fraud Statistics, Trends & Forcasts 2024</a></figcaption>
 </figure>
 
+<a name="About-Visa" ></a>
 
 ## About Visa
 Visa Inc. is a global leader in digital payments, enabling secure and efficient transactions across more than 200 countries and regions. Established in 1958 by Dee Hock (originally as BankAmericard) and based in Foster City, California, Visa functions as a payment network rather than issuing credit or debit cards itself. Its core function is to connect consumers, businesses, financial institutions, and governments through its advanced transaction processing platform, VisaNet, which can handle over 65,000 transactions per second.
@@ -129,14 +131,3 @@ In addition, Visa has reported that its AI tools specifically helped Australian 
 - <a href="https://www.businessinsider.com/sc/how-ai-transforming-fraud-prevention-in-digital-payments">https://www.businessinsider.com/sc/how-ai-transforming-fraud-prevention-in-digital-payments</a>
 - <a href="https://navigate.visa.com/europe/security/current-trends-to-secure-the-future-of-money/">https://navigate.visa.com/europe/security/current-trends-to-secure-the-future-of-money/</a>
 - <a href="https://www.visa.com.au/about-visa/newsroom/press-releases/visas-ai-prevents-more-than-350-million-in-fraud-from-disrupting-australian-businesses.html">https://www.visa.com.au/about-visa/newsroom/press-releases/visas-ai-prevents-more-than-350-million-in-fraud-from-disrupting-australian-businesses.html</a>
-
-
-
-[Jump to a section with custom ID](#some-id)
-
-...
-
-<a name="some-id" />
-
-##### Section with some ID
-
