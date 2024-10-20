@@ -8,8 +8,8 @@
 <!-- - [Payment Fraud](#Payment-Fraud)
 - [About Visa](#About-Visa)
   - [Recent Acquisition](##Recent-Acquisition) -->
-[About Visa](#About-Visa)
-[Visa AI](#Visa-AI)
+- [About Visa](#About-Visa)
+- [Visa AI](#Visa-AI)
 <!-- - [Visa AI Competitors](#Visa-AI-Competitors)
   - [Mastercard: Decision Intelligence](#Mastercard:-Decision-Intelligence) -->
 
