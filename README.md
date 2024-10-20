@@ -10,9 +10,8 @@
 - [About Visa](#About-Visa)
 - [Visa AI](#Visa-AI)
   - [Recent Acquisition](#Recent-Acquisition)
-<!-- - [Visa AI Competitors](#Visa-AI-Competitors)
-  - [Mastercard: Decision Intelligence](#Mastercard:-Decision-Intelligence) -->
-
+- [Visa AI Competitors](#Visa-AI-Competitors)
+- [References](#References)
  
 <a name="Payment-Fraud"></a>
 
@@ -88,6 +87,8 @@ Technologies behind Visa Protect that form the backbone of Visa Protect, enablin
 Visa Buys Featurespace to Add AI-Based Real-Time Fraud Defense
 Featurespace has also developed Adaptive Behavioral Analytics and Automated Deep Behavioral Networks to combat fraud and financial crime.
 
+<a name="Visa-AI-Competitors"></a>
+
 ## Visa AI Competitors
 
 ### Mastercard: Decision Intelligence
@@ -126,6 +127,9 @@ In addition, Visa has reported that its AI tools specifically helped Australian 
 
 
 ---
+
+<a name="References"></a>
+
 ### References
 
 - <a href="https://en.wikipedia.org/wiki/Visa_Inc">https://en.wikipedia.org/wiki/Visa_Inc</a>
