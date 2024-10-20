@@ -5,10 +5,8 @@
 </figure>
 
 ## Table of Contents
-<!-- - [Payment Fraud](#Payment-Fraud)
-- [About Visa](#About-Visa)
-  - [Recent Acquisition](##Recent-Acquisition) -->
 - [Payment Fraud](#Payment-Fraud)
+  - [Payment Fraud Statistics, Trends & Forcasts 2024](#Payment-Statistics)   
 - [About Visa](#About-Visa)
 - [Visa AI](#Visa-AI)
   - [Recent Acquisition](#Recent-Acquisition)
@@ -30,6 +28,8 @@ Payment fraud has a negative impact on businesses. Here are a few of the consequ
 - Increased chargeback fees
 - Reputational damage
 - Legal and regulatory challenges
+
+<a name="Payment-Statistics"></a>
 
 ### Payment Fraud Statistics, Trends & Forcasts 2024
 
