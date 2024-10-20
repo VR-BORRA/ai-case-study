@@ -8,6 +8,7 @@
 <!-- - [Payment Fraud](#Payment-Fraud)
 - [About Visa](#About-Visa)
   - [Recent Acquisition](##Recent-Acquisition) -->
+- [Payment Fraud](#Payment-Fraud)  
 - [About Visa](#About-Visa)
 - [Visa AI](#Visa-AI)
 <!-- - [Visa AI Competitors](#Visa-AI-Competitors)
@@ -15,6 +16,7 @@
 
  
 <a name="Payment-Fraud"></a>
+
 ## Payment Fraud
 Payment fraud is increasing as fraudsters find new tactics to target their victims. Businesses need to enhance their fraud strategies to keep up with these new payment fraud trends. With the right technology, businesses can detect and prevent fraud faster and reduce its negative impact, leading to cost reduction, better customer experience, and higher revenue.
 
