@@ -42,7 +42,7 @@ As a publicly traded entity, Visa Inc. holds a market capitalization of around $
 
 Visa is global leader in digital payments. It's primary role is to connect consumers, businesses, financial institutions and governments through its prowerful processing platform, VisaNet, which can handle over 65,000 transactions per second.
 
-<a name="Visa-AI" />
+<a name="Visa-AI" ></a>
 
 ## Visa AI
 [For over 30 years,](https://corporate.visa.com/en/sites/visa-perspectives/innovation/thirty-years-of-ai-and-counting.html) Visa has been a leader in using AI to combat fraud.
