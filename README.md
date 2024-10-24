@@ -11,6 +11,7 @@
 - [Visa AI](#Visa-AI)
   - [Recent Acquisition](#Recent-Acquisition)
 - [Visa AI Competitors](#Visa-AI-Competitors)
+- [Visa AI Results](#visa-ai-results)
 - [References](#References)
  
 <a name="Payment-Fraud"></a>
@@ -118,11 +119,15 @@ Stripe offers a suite of payment processing services that include AI-powered fra
 These companies, like Visa, are investing in AI technologies to enhance their fraud detection capabilities, adapting to the evolving landscape of digital payments and associated security challenges[^1].
 
 
+<a name="Visa-AI-Results"></a>
+
 ## Visa AI Results
 
-Visa's AI-driven security measures have prevented approximately $25 billion in global fraud annually.This impressive figure highlights the effectiveness of Visa's technology, which analyzes transaction data in real time to identify and mitigate fraud risks.
+According to Visa, just in 2023 it's AI-driven security measures have prevented approximately $40 billion in fraud — nearly double the amount from the previous year. In addition, Visa has reported that its AI tools specifically helped Australian businesses avoid over AU$354 million (around $230 million USD) in potential fraud during a single year
 
-In addition, Visa has reported that its AI tools specifically helped Australian businesses avoid over AU$354 million (around $230 million USD) in potential fraud during a single year
+This impressive figure highlights the effectiveness of Visa's technology, which analyzes transaction data in real time to identify and mitigate fraud risks.
+
+The AI technology is also used by the Fraudsters to create deepfakes — such as audio or video that mimic the voice and appearance of real people — to trick victims into making payments. So, innovators at Visa are constantly looking for ways to apply technology to this problem, making it easy for consumers to transact securely.
 
 
 
@@ -140,3 +145,4 @@ In addition, Visa has reported that its AI tools specifically helped Australian 
 - <a href="https://www.businessinsider.com/sc/how-ai-transforming-fraud-prevention-in-digital-payments">https://www.businessinsider.com/sc/how-ai-transforming-fraud-prevention-in-digital-payments</a>
 - <a href="https://navigate.visa.com/europe/security/current-trends-to-secure-the-future-of-money/">https://navigate.visa.com/europe/security/current-trends-to-secure-the-future-of-money/</a>
 - <a href="https://www.visa.com.au/about-visa/newsroom/press-releases/visas-ai-prevents-more-than-350-million-in-fraud-from-disrupting-australian-businesses.html">https://www.visa.com.au/about-visa/newsroom/press-releases/visas-ai-prevents-more-than-350-million-in-fraud-from-disrupting-australian-businesses.html</a>
+- <a href="https://plus.reuters.com/visa-protect-ai-powered-security-future-of-payments/p/1">https://plus.reuters.com/visa-protect-ai-powered-security-future-of-payments/p/1</a>
