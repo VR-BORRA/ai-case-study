@@ -26,7 +26,7 @@
     - [Innovation and Continuous Improvement](#innovation-and-continuous-improvement)
     - [Advanced Fraud Detection and Prevention](#advanced-fraud-detection-and-prevention)
     - [Enhanced Security for Digital Payments](#enhanced-security-for-digital-payments)
-    - [References](#references) 
+  - [References](#references)
 <a name="Payment-Fraud"></a>
 
 ## Payment Fraud
@@ -185,7 +185,7 @@ With the rise of peer-to-peer (P2P) payment apps and digital wallets, security i
 
 <a name="References"></a>
 
-### References
+## References
 
 - <a href="https://en.wikipedia.org/wiki/Visa_Inc">https://en.wikipedia.org/wiki/Visa_Inc</a>
 - <a href="https://www.banking-gateway.com/news/visa-to-acquire-real-time-ai-payments-protection-technology-firm-featurespace/">https://www.banking-gateway.com/news/visa-to-acquire-real-time-ai-payments-protection-technology-firm-featurespace/</a>
